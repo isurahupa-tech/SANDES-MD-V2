@@ -1,1 +1,1 @@
-{ "name": "SANDES-MD","version": "2.0.0","main": "index.js","scripts": {"start": "pm2 start index.js --deep-monitoring --attach --name SANDES-MD","stop": "pm2 stop SANDES-MD","restart": "pm2 restart SANDES-MD" }, 
+{ "name": "MALIYA-MD","version": "2.0.0","main": "index.js","scripts": {"start": "pm2 start index.js --deep-monitoring --attach --name MALYA-MD","stop": "pm2 stop MALIYA-MD","restart": "pm2 restart SANDES-MD" }, 
